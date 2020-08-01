@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditActivity">
+
+    <EditText
+        android:id="@+id/etitem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="126dp"
+        android:layout_marginStart="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etitem"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_purple"
+        android:textSize="18sp"
+        android:textStyle="normal|bold"
+        android:text="save" />
+
+
+</RelativeLayout>
