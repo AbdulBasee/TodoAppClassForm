@@ -1,6 +1,6 @@
-# Project 1 - *Simple ToDoApp*
+# Project 1 - *TodoAppClassForm*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**TodoAppClassForm** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **AbdulBaseer Mahmood**
 
@@ -26,13 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='videoWalkthrough.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had to go through some of the confusing concepts such as java interfaces. I had to learn it before implementing it. 
 
 ## License
 
